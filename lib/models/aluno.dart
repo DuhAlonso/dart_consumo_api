@@ -4,14 +4,14 @@ import 'package:consumo_api/models/curso.dart';
 import 'package:consumo_api/models/endereco.dart';
 
 class Aluno {
-  String id;
+  String? id;
   String nome;
   int idade;
   List<String> nomeCursos;
   List<Curso> cursos;
   Endereco endereco;
   Aluno({
-    required this.id,
+    this.id,
     required this.nome,
     required this.idade,
     required this.nomeCursos,
@@ -24,7 +24,7 @@ class Aluno {
       'id': id,
       'nome': nome,
       'idade': idade,
-      'nomeCuros': nomeCursos,
+      'nomeCursos': nomeCursos,
       'cursos': cursos.map((curso) => curso.toMap()).toList(),
       'endereco': endereco.toMap(),
     };
