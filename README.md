@@ -31,9 +31,9 @@ Aplicação simples criada na Academia do Flutter para consumo de api e dados js
 
 <h2>Screenshots</h2>
 
-<img src="https://github.com/DuhAlonso/dart_consumo_api/blob/main/screenshots/code1.png" width="400">
+<img src="https://github.com/DuhAlonso/dart_consumo_api/blob/main/screenshot/code1.png" width="400">
 
-<img src="https://github.com/DuhAlonso/dart_consumo_api/blob/main/screenshots/result.png" width="400"> 
+<img src="https://github.com/DuhAlonso/dart_consumo_api/blob/main/screenshot/result.png" width="400"> 
 <p>
 </p>
 
