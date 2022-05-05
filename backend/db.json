@@ -1,1 +1,107 @@
-{"alunos":[{"id":"1","nome":"Eduardo Alonso","idade":24,"nomeCursos":["Academia do Flutter","4 Cursos em 1","Flutter BR"],"cursos":[{"id":1,"nome":"Academia do Flutter","isAluno":true},{"id":2,"nome":"4 Cursos em 1","isAluno":true}],"endereco":{"rua":"Av Paulista","numero":200,"cep":"04844554","telefone":{"ddd":11,"telefone":"954778877"},"cidade":{"id":1,"nome":"São Paulo"}},"nomeCuros":["Academia do Flutter","4 Cursos em 1","Flutter BR"]},{"id":"2","nome":"João Rodrigues","idade":18,"nomeCursos":["Academia do Flutter","4 Cursos em 1"],"cursos":[{"id":1,"nome":"Academia do Flutter","isAluno":true},{"id":2,"nome":"4 Cursos em 1","isAluno":false}],"endereco":{"rua":"Av Interlagos","numero":1874,"cep":"0448877","telefone":{"ddd":11,"telefone":"145585777"},"cidade":{"id":1,"nome":"São Paulo"}}},{"id":"92618c00-cb3e-11ec-8bec-d9d90286bf8b","nome":"Antonio José","idade":40,"nomeCursos":["Curso 1","Curso 2"],"cursos":[{"id":1,"nome":"Curso Completo 1","isAluno":true}],"endereco":{"rua":"Rua Maior","numero":1478,"cep":"0487877","telefone":{"ddd":14,"telefone":"1544844456"},"cidade":{"id":3,"nome":"Vila Nova"}}}]}
+{
+    "alunos": [
+        {
+            "id": "1",
+            "nome": "Eduardo Alonso",
+            "idade": 24,
+            "nomeCursos": [
+                "Academia do Flutter",
+                "4 Cursos em 1",
+                "Flutter BR"
+            ],
+            "cursos": [
+                {
+                    "id": 1,
+                    "nome": "Academia do Flutter",
+                    "isAluno": true
+                },
+                {
+                    "id": 2,
+                    "nome": "4 Cursos em 1",
+                    "isAluno": true
+                }
+            ],
+            "endereco": {
+                "rua": "Av Paulista",
+                "numero": 200,
+                "cep": "04844554",
+                "telefone": {
+                    "ddd": 11,
+                    "telefone": "954778877"
+                },
+                "cidade": {
+                    "id": 1,
+                    "nome": "São Paulo"
+                }
+            },
+            "nomeCuros": [
+                "Academia do Flutter",
+                "4 Cursos em 1",
+                "Flutter BR"
+            ]
+        },
+        {
+            "id": "2",
+            "nome": "João Rodrigues",
+            "idade": 18,
+            "nomeCursos": [
+                "Academia do Flutter",
+                "4 Cursos em 1"
+            ],
+            "cursos": [
+                {
+                    "id": 1,
+                    "nome": "Academia do Flutter",
+                    "isAluno": true
+                },
+                {
+                    "id": 2,
+                    "nome": "4 Cursos em 1",
+                    "isAluno": false
+                }
+            ],
+            "endereco": {
+                "rua": "Av Interlagos",
+                "numero": 1874,
+                "cep": "0448877",
+                "telefone": {
+                    "ddd": 11,
+                    "telefone": "145585777"
+                },
+                "cidade": {
+                    "id": 1,
+                    "nome": "São Paulo"
+                }
+            }
+        },
+        {
+            "id": "92618c00-cb3e-11ec-8bec-d9d90286bf8b",
+            "nome": "Antonio José",
+            "idade": 40,
+            "nomeCursos": [
+                "Curso 1",
+                "Curso 2"
+            ],
+            "cursos": [
+                {
+                    "id": 1,
+                    "nome": "Curso Completo 1",
+                    "isAluno": true
+                }
+            ],
+            "endereco": {
+                "rua": "Rua Maior",
+                "numero": 1478,
+                "cep": "0487877",
+                "telefone": {
+                    "ddd": 14,
+                    "telefone": "1544844456"
+                },
+                "cidade": {
+                    "id": 3,
+                    "nome": "Vila Nova"
+                }
+            }
+        }
+    ]
+}

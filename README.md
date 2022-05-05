@@ -30,26 +30,23 @@ Aplicação simples criada na Academia do Flutter para consumo de api e dados js
 </p>
 
 <h2>Screenshots</h2>
-EM BREVE
-<!-- <img src="https://github.com/DuhAlonso/example_bloc/blob/main/screenshots/contact_book_bloc_cubit.gif" width="250"> <img src="https://github.com/DuhAlonso/example_bloc/blob/main/screenshots/Screen02.png" width="250">  -->
+
+<img src="https://github.com/DuhAlonso/dart_consumo_api/blob/main/screenshots/code1.png" width="400">
+
+<img src="https://github.com/DuhAlonso/dart_consumo_api/blob/main/screenshots/result.png" width="400"> 
 <p>
 </p>
 
 <h2>Sobre o desenvolvimento</h2>
 <p>
-EM BREVE
+Com toda certeza o cosumo de api é fundamental na vida de um dev, e principalmente no formato json. Esse módulo foi justamente para detalhar o consumo de uma api com os dados em formato json e transformando em uma classe do dart.
 </p>
 
 <h2>Desafios</h2>
 <p>
-Desafio 01 - EM BREVE:
 
-```
-EM BREVE
-
-```
-
-<!-- <img src="https://github.com/DuhAlonso/example_bloc/blob/main/screenshots/removeContact.png" width="500"> -->
+<a href="https://github.com/DuhAlonso/desafio_dart_consumo_api
+">Desafio 01</a>
 
 </p>
 
@@ -74,6 +71,7 @@ Depois abra a pasta backend do projeto no terminal e digite o seguinte comnndo
 <p>
 
 - Dartion
+- Package http
 
 </p>
 

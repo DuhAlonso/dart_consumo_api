@@ -12,12 +12,18 @@ class AlunosController {
 
   Future<void> findAll() async {
     final alunos = await _alunosRepository.findAll();
-    alunos.forEach(print);
+    alunos.forEach((Aluno) {
+      print(Aluno.nome);
+      print(Aluno.idade);
+      print(Aluno.cursos);
+    });
   }
 
   Future<void> findById(String id) async {
     final aluno = await _alunosRepository.findById(id);
-    print(aluno);
+    print(aluno.nome);
+    print(aluno.idade);
+    print(aluno.cursos);
   }
 
   Future<void> update() async {
